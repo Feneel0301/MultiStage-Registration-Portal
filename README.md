@@ -144,7 +144,6 @@ Keeps locking logic reusable
 Avoids repeating checks in every page
 
 Separates business logic from UI
-
 🔒 Stage Locking Logic
 
 Stage access is controlled using:
@@ -188,7 +187,6 @@ A stage is successfully completed
 Validation passes
 
 Context state changes
-
 
 🚀 Final Submission Flow
 
